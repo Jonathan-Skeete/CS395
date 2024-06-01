@@ -1,0 +1,3 @@
+============================ RegEx Results ============================
+Functions:
+['empty()', 'ToString()', 'Size()', 'str()', 'Iterator()', 'HasMove()', 'Value()', 'Sync()', 'ToMost()', 'ToLeast()', 'Couple()', 'Clear()', 'HasCoupling()', 'Mesh()', 'HasConnection()', 'Link()', 'Word()', 'size()', 'operator()', 'Zero()', 'data()', 'close()', 'ViewLog()', 'ClearLog()', 'Reset()', 'Process()', 'CanExecute()', 'Read()', 'Write()', 'ALU()', 'CU()', 'Compile()']

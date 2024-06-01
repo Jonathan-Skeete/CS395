@@ -1,0 +1,19 @@
+============================ Visualization ============================
+    index                     College                President  Salary
+0      16   University of Mount Union  W. Richard Merriman Jr.  221761
+1      15            Marietta College             Joseph Bruno  288295
+2      14               Hiram College            Lori Varlotta  293336
+3      13       Heidelberg University        Robert Huntington  300005
+4      12  Baldwin Wallace University            Robert Helmer  365616
+5      11    Ohio Wesleyan University           Rockwell Jones  366625
+6      10        Otterbein University             Kathy Krendl  378035
+7       9        Muskingum University              Anne Steele  384233
+8       8          Capital University             Denvy Bowman  388570
+9       7    Ohio Northern University          Daniel Dibiasio  414716
+10      6          Denison University            Adam Weinberg  435322
+11      5              Kenyon College             Sean Decatur  451698
+12      4   University of Mount Union            Richard Giese  453800
+13      3       Wittenberg University            Laurie Joyner  463504
+14      2             Antioch College           Mark Roosevelt  507672
+15      1             Oberlin College           Marvin Krislov  829913
+16      0          College of Wooster           Grant Cornwell  911651

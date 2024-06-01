@@ -1,0 +1,11 @@
+============================ RegEx Results ============================
+Names:
+['Grant Cornwell', 'Marvin Krislov', 'Mark Roosevelt', 'Laurie Joyner', 'Richard Giese', 'Sean Decatur', 'Adam Weinberg', 'Daniel Dibiasio', 'Denvy Bowman', 'Anne Steele', 'Kathy Krendl', 'Rockwell Jones', 'Robert Helmer', 'Robert Huntington', 'Lori Varlotta', 'Joseph Bruno', 'W. Richard Merriman Jr.']
+
+Schools:
+['College of Wooster', 'Oberlin College', 'Antioch College', 'Wittenberg University', 'University of Mount Union', 'Kenyon College', 'Denison University', 'Ohio Northern University', 'Capital University', 'Muskingum University', 'Otterbein University', 'Ohio Wesleyan University', 'Baldwin Wallace University', 'Heidelberg University', 'Hiram College', 'Marietta College', 'University of Mount Union']
+
+Salaries:
+['$911,651', '$829,913', '$507,672', '$463,504', '$453,800', '$451,698', '$435,322', '$414,716', '$388,570', '$384,233', '$378,035', '$366,625', '$365,616', '$300,005', '$293,336', '$288,295', '$221,761']
+
+[911651, 829913, 507672, 463504, 453800, 451698, 435322, 414716, 388570, 384233, 378035, 366625, 365616, 300005, 293336, 288295, 221761]
